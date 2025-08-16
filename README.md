@@ -4,7 +4,7 @@
 ### 🌟 Sobre mí
 - 🎓 Estudiante de **2º año** en **Licenciatura en Sistemas (UNLP)**  
 - 💻 Experiencia en **C#, Java, HTML y CSS**  
-- 🌱 Siempre aprendiendo cosas nuevas (actualmente profundizando en **JavaScript, Git y bases de datos**)  
+- 🌱 Siempre aprendiendo cosas nuevas (actualmente profundizando en **Python, Git y bases de datos**)  
 - 🤝 Abierto a colaborar en proyectos y crecer junto a la comunidad  
 
 ### 🚀 Lenguajes
